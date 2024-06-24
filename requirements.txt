@@ -8,7 +8,7 @@ Django
 django-allauth==0.63.2
 django-crispy-forms
 django-debug-toolbar
-django-environ
+django-environ 
 django-model-utils
 django-redis
 djangorestframework==3.11.0
