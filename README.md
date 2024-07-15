@@ -4,7 +4,7 @@
 
 #### Detail Page
 <img src="website_images/Detail.png" width="900">
-
+ 
 ----
 ## Google Sign In Activation
 To activate google sign in for the application do configuration using Google Developer console for API key generation.
