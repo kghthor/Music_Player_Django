@@ -10,7 +10,7 @@
 To activate google sign in for the application do configuration using Google Developer console for API key generation.
 
 ## Installation 📦
-
+ 
 >pip install -r requirements.txt
 
 #### Clone
