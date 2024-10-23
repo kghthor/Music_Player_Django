@@ -3,7 +3,7 @@ asgiref
 certifi
 cffi
 chardet
-defusedxml
+defusedxml 
 Django
 django-allauth==0.63.2
 django-crispy-forms
