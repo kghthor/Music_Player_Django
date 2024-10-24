@@ -1,7 +1,7 @@
 argon2-cffi
 asgiref
 certifi
-cffi
+cffi 
 chardet
 defusedxml 
 Django
