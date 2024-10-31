@@ -2,7 +2,7 @@
 #### Home Page
 <img src="website_images/Home.png" width="900">
 
-#### Detail Page
+#### Detail Page 
 <img src="website_images/Detail.png" width="900">
  
 ----
